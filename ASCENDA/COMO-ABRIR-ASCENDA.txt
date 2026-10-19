@@ -1,0 +1,14 @@
+ASCENDA — DA IDEIA AO IMPÉRIO
+
+ANDROID
+1. Extraia este ZIP no app Arquivos/Files do celular.
+2. Abra a pasta extraída e toque em index.html.
+3. Se o Android não oferecer Chrome, abra o app Arquivos, mantenha index.html pressionado e escolha Abrir com > Chrome (a opção varia por aparelho).
+4. Se o Chrome bloquear os arquivos locais, isso é uma limitação do navegador Android; use o pacote Android separado/um servidor local. Este ZIP não é um APK.
+
+COMPUTADOR
+Extraia o ZIP e abra index.html em um navegador moderno. Mantenha as pastas assets e vendor junto com index.html.
+
+CONTROLES: setas/WASD ou controles na tela para andar; toque/clique em pessoas para conversar.
+
+Esta versão corrigiu nomes dos diálogos e trocou a mentora para Valentina, além de atualizar a marca visível nos mapas principais. Alguns recursos do navegador, especialmente multiplayer, podem exigir conexão.
